@@ -1,0 +1,4 @@
+Rust, a language bold and new,
+Memory-safe and fast, it's true.
+With syntax clean and easy to view,
+Coding in Rust, a pleasure to pursue.
